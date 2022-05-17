@@ -16,7 +16,7 @@
 <!---->
 <h2>Hi, I'm Francine Massaro</h2>
 
-- 🌱 I’m currently working as a Software Engineer with Kotlin, Postgress, Docker and others... I'm started with programming through an organization call Generation and since i started has been a challenge. Every day I am learning a lot of new things and even been somethings hard, I am very happy. So, right now you can find in my profile some projects but most of all, exercises from days gone by. I still use git and github for the work, but as the work is secret, my current contributions don't appear in my open profile.
+- 🌱 I’m currently working as a Software Engineer with Kotlin, Java, Postgress, Docker and others... I'm started with programming through an organization call Generation and since i started has been a challenge. Every day I am learning a lot of new things and even been somethings hard, I am very happy. So, right now you can find in my profile some projects but most of all, exercises from days gone by. I still use git and github for the work, but as the work is secret, my current contributions don't appear in my open profile.
 
 
 - 📫 Reach me on <a href="https://www.linkedin.com/in/francine-massaro-73813119b/">LinkedIn</a> 🙃
