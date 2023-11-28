@@ -27,8 +27,10 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -- - - -- - - - -
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinemassaro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=francinemassaro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinemassaro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=francinemassaro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
+
+<!-- theme dos desenhos acima: radical, tokyonight, onedark -->
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francine-massaro/)
