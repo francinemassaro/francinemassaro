@@ -28,7 +28,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -- - - -- - - - -
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinemassaro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=francinemassaro&hide=stars,contribs&show=prs_merged&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=francinemassaro&hide=contribs&show=prs_merged&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>  imagem com commits -->
 
 <!-- theme dos desenhos acima: radical, tokyonight, onedark -->
 
