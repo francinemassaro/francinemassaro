@@ -22,7 +22,7 @@
 - 📫 Reach me on <a href="https://www.linkedin.com/in/francine-massaro/">LinkedIn</a> 🙃
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-- ✨ Have a good day and thanks! ✨ 
+- ✨ Have a good day! ✨ 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -- - - -- - - - -
