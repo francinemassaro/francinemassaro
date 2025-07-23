@@ -16,7 +16,7 @@
 <!---->
 <h2>Hi, I'm Francine Massaro</h2>
 
-- 🌱 I’m currently working as a Software Engineer at Itaú Unibanco using Java, Spring Boot, Docker and others as my main tools... I'm started with programming through an organization called Generation and since I started it has been a challenge. Every day I am learning a lot of new things and whilst some things are hard, I am very happy. So, right now you can find in my profile some projects but most of all, exercises I did. I still use git and github for work but, as the work is secret, my current contributions don't appear in my open profile.
+- 🌱 I’m currently working as a Software Engineer at Itaú Unibanco using Java, Spring Boot, Docker, and others as my main tools... I started with programming through an organization called Generation, and since I started, it has been a challenge. Every day, I am learning a lot of new things, and although some things are challenging, I like them. So, you can find in my profile some projects, but most of all, the exercises I did. I use git and github for work, but as the work is secret, my current contributions don't appear on my open profile.
 
 
 
